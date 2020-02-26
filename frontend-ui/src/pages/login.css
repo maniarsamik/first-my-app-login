@@ -1,0 +1,8 @@
+.test1 {background-image: url(../images/camera-close-up.jpg);
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+height: 100vh;
+display: flex;
+flex-direction: column;
+justify-content: center;}
